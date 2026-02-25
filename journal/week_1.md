@@ -13,3 +13,10 @@ An image is just a matrix, and edge detection depends heavily on threshold tunin
 
 **Question:**  
 How do we systematically choose good threshold values?
+
+## Day 2 (2/24)
+
+**What I did**
+
+- Started the Linear Algebra course for review. [Completed 10%]
+- Practiced using NumPy and Matplotlib to get more comfortable with the libraries.
